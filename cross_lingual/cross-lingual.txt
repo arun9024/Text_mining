@@ -1,0 +1,122 @@
+cordel	لبخند	0.0
+sonrisa	ریسمان	0.0
+mediodía	نخ	0.0
+cuerda	ظهر	0.0
+gallo	سفر	0.06
+viaje	خروس	0.06
+fruta	کوره	0.105
+caldera	میوه	0.105
+autógrafo	ساحل	0.04
+orilla	امضا	0.04
+automóvil	جادوگر	0.0
+hechicero	خودرو	0.0
+loma	اجاق	0.04
+estufa	ماهور	0.04
+sonrisa	ابزار	0.04
+instrumento	پوزخند	0.04
+asilo	میوه	0.105
+fruta	پناهندگی	0.105
+asilo	راهب	0.315
+monje	پناهندگی	0.315
+cementerio	تیمارستان	0.79
+manicomio	قبرستان	0.79
+chico	خروس	0.48
+gallo	پسر	0.48
+vaso	شعبده باز	0.20500000000000002
+mago	شیشه	0.20500000000000002
+cojín	جواهر	0.27
+joya	کوسن	0.27
+monje	برده	0.56
+esclavo	راهب	0.56
+asilo	گورستان	0.605
+cementerio	پناهندگی	0.605
+costa	جنگل	1.19
+bosque	ساحل دریا	1.19
+sonrisa	پسربچه	0.685
+chaval	پوزخند	0.685
+orilla	بیشه زار	0.96
+bosque	ساحل	0.96
+monje	پیشگو	1.145
+oráculo	راهب	1.145
+chico	حکیم	0.75
+sabio	پسر	0.75
+automóvil	کوسن	0.43499999999999994
+cojín	خودرو	0.43499999999999994
+loma	ساحل	1.19
+orilla	ماهور	1.19
+chaval	جادوگر	0.315
+hechicero	پسر بچه	0.315
+selva	قبرستان	0.44
+cementerio	جنگل	0.44
+comida	خروس	1.27
+gallo	غذا	1.27
+cementerio	بیشه زار	0.645
+bosque	گورستان	0.645
+orilla	سفر	0.98
+viaje	ساحل	0.98
+pájaro	بیشه زار	1.73
+bosque	پرنده	1.73
+costa	تپه	1.29
+colina	ساحل دریا	1.29
+caldera	ابزار	1.0
+instrumento	کوره	1.0
+grulla	خروس	2.045
+gallo	درنا	2.045
+colina	بیشه زار	1.75
+bosque	تپه	1.75
+coche	سیاحت	1.71
+viaje	ماشین	1.71
+cementerio	ماهور	0.625
+loma	گورستان	0.625
+cristal	جواهر	1.625
+joya	شیشه	1.625
+mago	پیشگو	2.46
+oráculo	شعبده باز	2.46
+grúa	ابزار	1.48
+instrumento	جرثقیل	1.48
+hermano	پسربچه	1.46
+chaval	برادر	1.46
+pájaro	خروس	2.605
+gallo	پرنده	2.605
+pájaro	درنا	2.875
+grulla	پرنده	2.875
+comida	میوه	2.67
+fruta	غذا	2.67
+hermano	راهب	1.335
+monje	برادر	1.335
+caldera	اجاق	3.06
+estufa	کوره	3.06
+mago	جادوگر	3.27
+hechicero	شعبده باز	3.27
+colina	ماهور	3.46
+loma	تپه	3.46
+cordel	نخ	3.585
+cuerda	ریسمان	3.585
+vaso	لیوان	3.625
+recipiente	لیوان	3.625
+siervo	برده	3.5
+esclavo	بنده	3.5
+trayecto	سفر	3.4
+viaje	سیاحت	3.4
+autógrafo	امضا	3.73
+firma	امضا	3.73
+costa	ساحل	3.435
+orilla	ساحل دریا	3.435
+selva	بیشه زار	3.19
+bosque	جنگل 	3.19
+instrumento	آلت	3.4
+herramienta	ابزار	3.4
+pollo	خروس 	3.52
+gallo	خروس	3.52
+chico	پسربچه	3.525
+chaval	پسر	3.525
+cojín	بالش	3.31
+almohada	کوسن	3.31
+cementerio	قبرستان 	4.0
+cementerio	گورستان	4.0
+automóvil	ماشین	3.9
+coche	خودرو	3.9
+gema	جواهر	3.435
+joya	گوهر	3.435
+mediodía	ظهر	3.875
+mediodía	نیم روز	3.875

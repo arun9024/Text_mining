@@ -22,7 +22,3 @@ cross-lingual_dataset_creation
 	Human assigned Datasets: http://lcl.uniroma1.it/similarity-datasets
 		1. rg65_spanish.txt
 		2. rg65_farsi.txt
-			
-# Text_mining
-# Text_mining
-# Text_mining
